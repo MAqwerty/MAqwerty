@@ -1,7 +1,7 @@
-- 👋 Hi, I’m mohammad XD
-- 👀 I’m interested in web ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me ...
+👋 I really enjoy learning programming.
+🧐 I'm interested in web development and I'm currently working on the front end.
+🍳 I would like to work in other fields as well.
+✔ I am always learning and working every day.
 
 <!---
 MAqwerty/MAqwerty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
